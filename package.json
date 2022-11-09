@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "boardgame.io": "^0.25.4",
+    "boardgame.io": "^0.25.5",
     "deep-diff": "^1.0.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
